@@ -4,6 +4,7 @@ def roll_call_dwarves(array)# code an argument here
 end
 
 def summon_captain_planet(array)# code an argument here
+  array.collect {|a| a.capitalize + !}
   # Your code here
 end
 

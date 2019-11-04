@@ -19,4 +19,5 @@ def find_the_cheese(array)# code an argument here
   array.include?("cheddar")
   if true
     puts "cheddar"
+  end
 end
